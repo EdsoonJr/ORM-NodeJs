@@ -1,0 +1,14 @@
+npm install express
+
+npm install body-parser
+
+npm install mysql2,
+
+
+npm install sequelize sequelize-cli path
+
+npx sequelize-cli db:migrate
+
+npx sequelize-cli db:seed:all
+
+
